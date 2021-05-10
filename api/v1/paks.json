@@ -3,6 +3,10 @@
         "pakchunk10_s4-WindowsClient.pak|pakchunk10_s120-WindowsClient.pak",
         "pakchunk10_s4-WindowsClient.sig|pakchunk10_s120-WindowsClient.sig",
         "pakchunk10_s4-WindowsClient.ucas|pakchunk10_s120-WindowsClient.ucas",
-        "pakchunk10_s4-WindowsClient.utoc|pakchunk10_s120-WindowsClient.utoc"
+        "pakchunk10_s4-WindowsClient.utoc|pakchunk10_s120-WindowsClient.utoc",
+        "pakchunk10_s3-WindowsClient.pak|pakchunk10_s121-WindowsClient.pak",
+        "pakchunk10_s3-WindowsClient.sig|pakchunk10_s121-WindowsClient.sig",
+        "pakchunk10_s3-WindowsClient.ucas|pakchunk10_s121-WindowsClient.ucas",
+        "pakchunk10_s3-WindowsClient.utoc|pakchunk10_s121-WindowsClient.utoc"
     ]
 }
