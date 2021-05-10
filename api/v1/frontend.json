@@ -1,7 +1,7 @@
 {
     "downtime": {
         "disabled": "false",
-        "disabled-reason": "If you see this please report it to Offset!"
+        "disabled-reason": "I guess your not meant to see this :)"
     },
     "update": {
         "version": "1.0.0.1",
