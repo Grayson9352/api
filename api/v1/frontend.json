@@ -1,19 +1,21 @@
 {
     "downtime": {
         "disabled": "false",
-        "disabled-reason": "I guess your not meant to see this :)"
+        "disabled-reason": "none"
     },
     "update": {
         "version": "1.0.0.1",
         "download-optional": "true",
-        "download-link": "https://cdn.discordapp.com/attachments/834916492827033611/836072819011092500/Release.7z"
+        "download-link": "https://cdn.itzaqua.tk/astro-swapper.7z"
     },
     "ui": {
-        "notifications": [
-            "image-url|title|date-time|content"
-        ],
         "dashboard": {
-            "patch-notes": "[-] Thanks for using Astro Swapper <3\n[-] Astro Swapper has been updated to v16.30!"
+            "patch-notes": "[!] Astro Swapper Is Back!\n[-] If a skin is bald just shut the fuck up and pick another <3",
+            "news-rotation": [
+                "3000|https://api.itzaqua.tk/assets/logo.png",
+                "3000|https://api.itzaqua.tk/assets/skins.png",
+                "3000|https://api.itzaqua.tk/assets/backpacks.png"
+            ]
         },
         "skins": {
             "tab-disabled": "false",
