@@ -10,12 +10,7 @@
     },
     "ui": {
         "dashboard": {
-            "patch-notes": "[!] Astro Swapper Is Back!\n[-] If a skin is bald just shut the fuck up and pick another <3",
-            "news-rotation": [
-                "3000|https://api.itzaqua.tk/assets/logo.png",
-                "3000|https://api.itzaqua.tk/assets/skins.png",
-                "3000|https://api.itzaqua.tk/assets/backpacks.png"
-            ]
+            "patch-notes": "[!] Astro Swapper Is Back!\n[-] If a skin is bald just shut the fuck up and pick another <3"
         },
         "skins": {
             "tab-disabled": "false",
