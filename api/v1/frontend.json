@@ -10,7 +10,7 @@
     },
     "ui": {
         "dashboard": {
-            "patch-notes": "[!] Astro Swapper Is Back!\n[-] Added Some Shit"
+            "patch-notes": "[!] Astro Swapper Is Back!\n[-] Private Build :)"
         },
         "skins": {
             "tab-disabled": "false",
@@ -570,7 +570,7 @@
             ]
         },
         "pickaxes": {
-            "tab-disabled": "false",
+            "tab-disabled": "true",
             "tab-disabled-reason": "There is nothing to show here, please be patient!",
             "items": [
                 "Dev_Test_Pickaxe.json|https://fortnite-api.com/images/cosmetics/br/Dev_Test_Pickaxe/icon.png",
@@ -935,7 +935,8 @@
             ]
         },
         "emotes": {
-            "tab-disabled": "false",
+            "tab-disabled": "true",
+            "tab-disabled-reason": "There is nothing to show here, please be patient!",
             "items": [
                 "EID_Accolades.json|https://fortnite-api.com/images/cosmetics/br/EID_Accolades/icon.png",
                 "EID_AfroHouse.json|https://fortnite-api.com/images/cosmetics/br/EID_AfroHouse/icon.png",
